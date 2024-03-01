@@ -1,0 +1,40 @@
+/* Form.module.css */
+
+/* Стили для контейнера формы */
+.formContainer {
+    display: inline-flex;
+    flex-direction: row;
+    background-color: #007bff;
+    border-radius: 0px 0px 10px 10px;
+  }
+  
+   
+
+  /* Стили для каждого блока с полем ввода */
+  .inputBlock {
+    margin-bottom: 10px;
+    margin-right: 10px;
+  }
+  
+  /* Стили для названия поля */
+  .inputLabel {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  /* Стили для поля ввода */
+  .inputField {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .buttonBlock{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+  }
+  

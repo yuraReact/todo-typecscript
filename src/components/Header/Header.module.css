@@ -1,0 +1,11 @@
+.header_container {
+    text-align: center;
+    background-color: blue;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.header_title {
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+}
